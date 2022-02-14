@@ -1,4 +1,5 @@
 ---
+finished_date: 2020-12-07
 tags:
   - Algorithm
   - Red_Black_Tree
